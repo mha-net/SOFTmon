@@ -1,0 +1,5 @@
+/bin/
+/doc/3rd-party
+.settings
+.classpath
+.project
